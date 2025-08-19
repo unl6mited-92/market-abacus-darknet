@@ -73,4 +73,6 @@ The **Abacus login** process is your critical first step to secure, anonymous tr
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/assets/glimpse.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/assets/scheme.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update:  13 August
+
+
+Update:  19.08.2025 Link is now available online
