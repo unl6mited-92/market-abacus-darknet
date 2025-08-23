@@ -75,4 +75,6 @@ The **Abacus login** process is your critical first step to secure, anonymous tr
 
 
 
-Update:  19.08.2025 Link is now available online
+
+
+Update:  23.08.2025
